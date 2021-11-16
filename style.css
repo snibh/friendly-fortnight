@@ -1,0 +1,27 @@
+.ai
+{
+  background-color: orange;
+  color: white;
+  width: 100%;
+  text-align: center;
+  
+}
+#a
+{
+  float: left;
+}
+#b
+{
+  float: right;
+}
+#df
+{
+  height: 150px;
+  margin :20px;
+  border-radius: 20px;
+  
+}
+#audio
+{
+  margin-top: 10px;
+}
